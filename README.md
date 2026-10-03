@@ -43,7 +43,6 @@ Uses a student dictionary and asks the user to enter a key. If the key does not 
 ### 5. Handle Multiple Exceptions
 
 Accepts two inputs and performs division. The program handles:
-
 * `ValueError` — when the user enters invalid input
 * `ZeroDivisionError` — when the second number is zero
 
