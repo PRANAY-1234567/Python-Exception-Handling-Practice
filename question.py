@@ -62,6 +62,7 @@ except ValueError as e:
 
 #7.Write a program to open data.txt and read its contents. Handle FileNotFoundError.Use finally to display:
 #File operation completed
+
 '''try:
     file = open("data.txt", "r")
     print(file.read())
