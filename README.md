@@ -1,7 +1,6 @@
 # Python Exception Handling Practice
 
 This repository contains basic Python programs created to practice **Exception Handling** using `try`, `except`, and `finally`.
-
 The programs cover common Python exceptions such as `ZeroDivisionError`, `ValueError`, `IndexError`, `KeyError`, `FileNotFoundError`, and `NameError`.
 
 ## Topics Covered
